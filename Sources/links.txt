@@ -1,0 +1,9 @@
+https://blog.faradars.org/naive-algorithm-for-pattern-searching/
+https://blog.faradars.org/rabin-karp-algorithm/
+https://matlabsite.com/10864/boyer-moore-string-search-algorithm.html
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.javatpoint.com/daa-string-matching-introduction
+https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
+https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+https://www.geeksforgeeks.org/measuring-the-document-similarity-in-python/
